@@ -29,3 +29,7 @@ I am a future ML and DL specialist <img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
