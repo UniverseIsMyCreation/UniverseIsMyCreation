@@ -38,4 +38,5 @@ I am a future ML and DL specialist <img src="https://media.giphy.com/media/WUlpl
  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
 </div>
