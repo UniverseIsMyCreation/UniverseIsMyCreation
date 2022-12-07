@@ -51,4 +51,4 @@ I am a future ML and DL specialist <img src="https://media.giphy.com/media/WUlpl
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UniverseIsMyCreation&theme=dark&background=000000)](https://git.io/streak-stats)
